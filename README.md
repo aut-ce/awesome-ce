@@ -1,7 +1,7 @@
 <p align="center">
   <a href="https://ce.aut.ac.ir"><img
     src="https://github.com/aut-ce.png"
-    width="284" height="108" border="0" alt="aut-ce"></a>
+    width="300" height="300" border="0" alt="aut-ce"></a>
 </p>
 
 [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
