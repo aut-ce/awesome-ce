@@ -11,11 +11,7 @@ A list of awesome repositories that helps you in your academic path at Amirkabir
 
 ## Contents
 
-- [Graduation](#Graduation)
 - [Thesis](#Thesis)
-
-## Graduation
-- [HowToGraduateFromAUT](https://github.com/smahmadpanah/HowToGraduateFromAUT)
 
 ## Thesis
 - [AUT-ThesisTemplate](https://github.com/nkhdiscovery/AUT-ThesisTemplate)
